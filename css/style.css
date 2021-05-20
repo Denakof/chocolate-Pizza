@@ -1,0 +1,129 @@
+main{
+    margin: 210px;
+}
+#Delicious{
+float: auto;
+font-size: x-large;
+font-style: italic;
+font-weight: bolder;
+position: relative;
+left: 50px;
+bottom: 50px;}
+
+#text1{
+    position: relative;
+    left: 50px;
+    bottom: 50px;
+    
+color: grey;
+}
+#icon1{
+    float: right;
+    position: relative;
+    bottom: 75px;
+
+}
+#icon2{
+    float: right;
+    margin-right: 15px;
+    position: relative;
+bottom: 75px;
+}
+#Chocolate{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+#date{
+    color: rgb(206, 198, 198);
+    font-weight: lighter;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+
+}
+#print{
+    float: right;
+    position: relative;
+    font-size: smaller;
+    color: rgb(219, 213, 213);
+    bottom: 15px;
+}
+#img2{
+padding: 15px;
+margin-top: 15px;
+margin-bottom: 15px;}
+
+#par2{
+margin-top: 20px;
+margin-bottom: 20px;}
+
+#par1 , #par2 , #par3{
+
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;    color: grey;}
+
+#d1 , #d2 {
+    background-image: url(https://raw.githubusercontent.com/LTUC/amman-irbid-201d24/main/class-10/lab-a/lab-assets/list-bg.png);
+
+}
+#d1{
+    margin-top: 35px;
+}
+#d2{
+    /* margin-bottom: 35px; */
+    float: right;
+
+position: relative;
+bottom: 110px;}
+
+#picv{
+margin-top: 50px;
+}
+#head{
+    position: relative;
+  left:80px;
+  bottom: 50px;
+  margin-bottom: 10px;
+  color: rgb(53, 51, 51);
+  font-weight: bolder;
+  font-size: x-large;
+}
+#par4{
+    position: relative;
+    left:80px;
+    bottom: 50px;
+    color: gray;
+ 
+
+}
+#par5{
+    position: relative;
+    left:80px;
+    bottom: 50px;
+    color: gray;
+
+}
+button{
+    float: right;
+    position: relative;
+    bottom: 90px;
+    height: 40px;
+    max-width: 250px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(184, 86, 86);
+}
+#footer1{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  bottom: 125px;
+}
+
+#s1 , #s2{
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    bottom: 100px;
+    left: 550px;
+    color: rgb(190, 183, 183);
+  
+}
